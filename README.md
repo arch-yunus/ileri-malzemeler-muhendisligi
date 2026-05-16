@@ -27,6 +27,17 @@ ileri-malzemeler-mufredati/
 
 ---
 
+## ⚡ Hızlı Erişim
+
+| Kaynak | Açıklama |
+| :--- | :--- |
+| 📖 [Teknik Sözlük](./SOZLUK.md) | İleri malzeme terimleri ve tanımları |
+| 🚀 [Vaka Çalışmaları](./03_Donem_Kompozit_ve_Ekstrem/VAKA_CALISMALARI.md) | Gerçek dünya uygulama örnekleri |
+| 🎓 [Bitirme Projesi](./04_Donem_Hesaplamali_Malzeme/PROJE_REHBERI.md) | Proje geliştirme ve uygulama rehberi |
+| 💻 [Simülasyon Araçları](./04_Donem_Hesaplamali_Malzeme/scripts) | Python tabanlı hesaplama araçları |
+
+---
+
 ## 🎓 Detaylı Müfredat İçeriği
 
 ### 1. Dönem: İleri Malzeme Temelleri & Kuantum Mekaniği
@@ -135,6 +146,16 @@ Müfredatın pratik bacağında öğrencilerin ve araştırmacıların aşağıd
 3.  *Phase Transformations in Metals and Alloys* - D.A. Porter, K.E. Easterling
 4.  *Introduction to Nanotechnology* - Charles P. Poole Jr., Frank J. Owens
 5.  *Computational Materials Science: An Introduction* - June Gunn Lee
+
+---
+
+## 💼 Kariyer Yolları ve Endüstriyel Uygulama
+
+Bu müfredatı tamamlayan bireyler aşağıdaki sektörlerde uzmanlaşabilir:
+- **Havacılık ve Uzay:** Hafif kompozit yapılar ve yüksek sıcaklık alaşımları uzmanlığı.
+- **Biyomedikal:** İmplant tasarımı ve biyomimetik malzeme geliştirme.
+- **Yarı İletken ve Elektronik:** Nano ölçekli cihazlar ve akıllı yüzeyler.
+- **Enerji Sektörü:** Yeni nesil batarya ve hidrojen depolama sistemleri.
 
 ---
 
