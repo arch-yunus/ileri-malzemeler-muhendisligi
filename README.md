@@ -1,22 +1,22 @@
-# 🔬 İleri Malzemeler Müfredatı (Advanced Materials Curriculum)
+# 🔬 İleri Malzemeler Mühendisliği (Advanced Materials Engineering)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Level: Academic](https://img.shields.io/badge/Level-Academic--Grade-red.svg)](#)
 [![Field: Material Science](https://img.shields.io/badge/Field-Material--Science-green.svg)](#)
 
 <p align="center">
-  <img src="./görseller/banner.png" alt="İleri Malzemeler Müfredatı Banner" width="100%">
+  <img src="./görseller/banner.png" alt="İleri Malzemeler Mühendisliği Banner" width="100%">
 </p>
 
-Bu depo, geleneksel metalurji ve malzeme biliminin ötesine geçerek; **akıllı (smart), nano-yapılı, metamalzemeler, biyomimetik ve ekstrem koşullara dayanıklı** yeni nesil malzemelerin tasarım, sentez, karakterizasyon ve hesaplamalı simülasyon süreçlerini kapsayan disiplinlerarası ve ileri düzey (Academic-Grade) bir mühendislik müfredatıdır.
+Bu depo, geleneksel metalurji ve malzeme biliminin ötesine geçerek; **akıllı (smart), nano-yapılı, metamalzemeler, biyomimetik ve ekstrem koşullara dayanıklı** yeni nesil malzemelerin tasarım, sentez, karakterizasyon ve hesaplamalı simülasyon süreçlerini kapsayan disiplinlerarası ve ileri düzey (Academic-Grade) bir mühendislik portalı ve kılavuzudur.
 
-Müfredat, hem teorik altyapıyı en üst düzeye çıkarmak hem de modern Ar-Ge endüstrisinin (havacılık, uzay, savunma, yarı iletkenler, ileri enerji sistemleri) ihtiyaç duyduğu dijital ve hesaplamalı becerileri (**DFT, Moleküler Dinamik, Makine Öğrenmesi, Malzeme Bilişimi**) kazandırmak amacıyla 4 ana dönem (blok) halinde tasarlanmıştır.
+Bu portal, hem teorik altyapıyı en üst düzeye çıkarmak hem de modern Ar-Ge endüstrisinin (havacılık, uzay, savunma, yarı iletkenler, ileri enerji sistemleri) ihtiyaç duyduğu dijital ve hesaplamalı becerileri (**DFT, Moleküler Dinamik, Makine Öğrenmesi, Malzeme Bilişimi**) kazandırmak amacıyla 4 ana dönem (blok) halinde tasarlanmıştır.
 
 ---
 
 ## 🔬 Malzeme Bilimi Paradigması (The Core Paradigm)
 
-Malzeme Mühendisliğinin temeli, aşağıdaki dört ana bileşen arasındaki doğrusal olmayan dinamik ilişkide yatar. Bu müfredat, bu paradigmayı hem deneysel hem de teorik/hesaplamalı düzlemde entegre eder:
+Malzeme Mühendisliğinin temeli, aşağıdaki dört ana bileşen arasındaki doğrusal olmayan dinamik ilişkide yatar. Bu portal, bu paradigmayı hem deneysel hem de teorik/hesaplamalı düzlemde entegre eder:
 
 ```mermaid
 graph TD
