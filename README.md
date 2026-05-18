@@ -47,7 +47,7 @@ graph TD
 Proje deposunun organize, modüler ve sürdürülebilir olması için aşağıdaki klasör mimarisi esas alınmıştır:
 
 ```text
-ileri-malzemeler-mufredati/
+ileri-malzemeler-muhendisligi/
 ├── README.md                          # Müfredat genel tanımı ve yol haritası
 ├── SOZLUK.md                          # İleri malzeme terimleri ve formülleri teknik sözlüğü
 ├── 01_Donem_Malzeme_Temelleri/        # Katıhal fiziği, termodinamik, difüzyon ve kinetik kılavuzu
